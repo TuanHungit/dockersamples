@@ -1,0 +1,14 @@
+{
+  "name": "visits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "NguyenTuanHung <hung1444199@gmailc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express":"*",
+    "redis":"2.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
